@@ -1,0 +1,2 @@
+variant	af	filter-pvalue	lrt-pvalue	beta	beta-std-err	variant_h2	notes
+RplD	5.73E-02	0.00E+00	9.25E-18	1.02E+00	1.18E-01	1.29E-01	

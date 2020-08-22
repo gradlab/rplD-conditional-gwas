@@ -1,0 +1,10 @@
+Read 4505 phenotypes
+Detected continuous phenotype
+Setting up LMM
+Similarity matrix has dimension (5007, 5007)
+Analysing 4505 samples found in both phenotype and similarity matrix
+h^2 = 0.86
+1 loaded variants
+0 filtered variants
+1 tested variants
+1 printed variants
