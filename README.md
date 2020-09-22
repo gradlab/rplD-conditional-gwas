@@ -6,4 +6,4 @@ Kevin C Ma, Tatum D Mortimer, Marissa A Duckett, Allison L Hicks, Nicole E Wheel
 
 Correspondence: kevinchenma@g.harvard.edu
 
-The Jupyter notebook, which steps through all analyses, can be downloaded [here](https://github.com/gradlab/rplD-conditional-gwas/blob/master/rplD-conditional-GWAS-notebook.ipynb) and visualized [here](https://nbviewer.jupyter.org/github/gradlab/rplD-conditional-gwas/blob/master/rplD-conditional-GWAS-notebook.ipynb).
+The Jupyter notebook, which steps through all analyses, can be [downloaded here](https://github.com/gradlab/rplD-conditional-gwas/blob/master/rplD-conditional-GWAS-notebook.ipynb) and [visualized here](https://nbviewer.jupyter.org/github/gradlab/rplD-conditional-gwas/blob/master/rplD-conditional-GWAS-notebook.ipynb).
