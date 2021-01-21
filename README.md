@@ -2,7 +2,7 @@
 
 Kevin C Ma, Tatum D Mortimer, Marissa A Duckett, Allison L Hicks, Nicole E Wheeler, Leonor Sánchez-Busó, Yonatan H Grad
 
-[doi: 10.1101/2020.03.24.006650](https://www.biorxiv.org/content/10.1101/2020.03.24.006650v1)
+[doi: 10.1038/s41467-020-19250-6](https://www.nature.com/articles/s41467-020-19250-6)
 
 Correspondence: kevinchenma@g.harvard.edu
 
